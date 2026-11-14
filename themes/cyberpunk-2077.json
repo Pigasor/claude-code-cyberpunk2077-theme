@@ -1,0 +1,24 @@
+{
+  "name": "Cyberpunk 2077",
+  "base": "dark",
+  "overrides": {
+    "claude": "#FF003C",
+    "text": "#D3D3D3",
+    "inactive": "#7A5A63",
+    "subtle": "#3A1A22",
+    "suggestion": "#72EAF8",
+    "permission": "#F3E600",
+    "planMode": "#72EAF8",
+    "autoAccept": "#47D58B",
+    "bashBorder": "#FF003C",
+    "promptBorder": "#FF003C",
+    "success": "#47D58B",
+    "error": "#FF003C",
+    "warning": "#F3E600",
+    "userMessageBackground": "#170005",
+    "diffAdded": "#0E2A1C",
+    "diffRemoved": "#3A0010",
+    "diffAddedWord": "#38AB6F",
+    "diffRemovedWord": "#A8002A"
+  }
+}
