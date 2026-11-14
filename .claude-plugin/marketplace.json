@@ -1,0 +1,11 @@
+{
+  "name": "cyberpunk2077-theme",
+  "owner": { "name": "Pigasor" },
+  "plugins": [
+    {
+      "name": "cyberpunk2077-theme",
+      "source": "./",
+      "description": "Cyberpunk 2077 UI styled theme for Claude Code."
+    }
+  ]
+}
